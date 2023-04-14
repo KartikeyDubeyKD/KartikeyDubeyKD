@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I'm an open-source enthusiast, a learner & an explorer I like to explore new things deeply passionate about software development & innovations. I believe in the power of community because together we can achieve anything.
+As a passionate open-source enthusiast, I am constantly seeking new opportunities to expand my knowledge and expertise in the field of software development and innovation. My dedication to exploring new concepts and technologies drives me to excel in my work, and I firmly believe in the power of community collaboration to achieve great things.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kartikeydubey.tech@gmail.com](mailto:kartikeydubey.tech@gmail.com)
