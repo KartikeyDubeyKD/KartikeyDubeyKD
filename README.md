@@ -8,7 +8,7 @@ As a passionate open-source enthusiast, I am constantly seeking new opportunitie
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kartikeydubey.tech@gmail.com](mailto:kartikeydubey.tech@gmail.com)
-* 🧠  I'm learning DevOps
+* 🧠  I'm learning DevOps and Machine Learning
 
 ### Skills
 
